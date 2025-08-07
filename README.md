@@ -1,15 +1,16 @@
-#Ochi - A Modern Animated Website
-##Description
+Ochi - A Modern Animated Website
+
+Description:
 Ochi is a modern, visually dynamic website . The site focuses on creating a captivating user experience through smooth and engaging animations. It is a single-page application with a unique, minimalist design that emphasizes interactivity and aesthetic appeal.
 
-##Features
+Features:
 Smooth Animations: Utilizes Framer Motion for fluid page transitions and scroll-triggered animations.
 
 Interactive UI: Includes interactive elements such as cursor-following effects.
 
 Clean Code: Written with modern best practices in React and styled using Tailwind CSS.
 
-##Technologies Used
+Technologies Used:
 React: A JavaScript library for building user interfaces.
 
 Framer Motion: A production-ready motion library for React.
@@ -18,15 +19,14 @@ Tailwind CSS: A utility-first CSS framework for rapid UI development.
 
 Vite: A fast build tool for front-end projects.
 
-##Live Demo
+Live Demo:
 You can view the live project here: https://saloni873.github.io/ochi-website/
 
-##Getting Started
+Getting Started:
 To get a local copy up and running, follow these simple steps.
 
-##Prerequisites
+Prerequisites:
 Node.js (LTS version)
-
 npm
 
 ##Installation
